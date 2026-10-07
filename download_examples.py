@@ -21,7 +21,7 @@ def download_examples(directory):
         if target.exists():
             payload = target.read_bytes()
         else:
-            request = Request(url, headers={'User-Agent': 'efros-leung-reproduction'})
+            request = Request(url, headers={'User-Agent': 'ce7491-texture-synthesis-codebase'})
             with urlopen(request, timeout=30) as response:
                 payload = response.read()
         with Image.open(io.BytesIO(payload)) as image:

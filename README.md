@@ -1,4 +1,4 @@
-# Efros–Leung texture synthesis
+# CE7491 texture synthesis codebase
 
 A small, independent Python reproduction of **Texture synthesis by non-parametric sampling** (Efros & Leung, ICCV 1999).
 
@@ -93,7 +93,7 @@ The independent code and synthetic examples use the [MIT license](LICENSE). Orig
 Create an empty repository on your preferred Git host, then run from this folder:
 
 ```bash
-git remote add origin https://github.com/YOUR_ACCOUNT/efros-leung-reproduction.git
+git remote add origin https://github.com/YOUR_ACCOUNT/ce7491-texture-synthesis-codebase.git
 git push -u origin main
 ```
 
