@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "Please cite the original paper when discussing the algorithm."
+title: "Efros–Leung Texture Synthesis: A Teaching Reproduction"
+type: software
+authors:
+  - family-names: Chen
+    given-names: Si
+license: MIT
+preferred-citation:
+  type: conference-paper
+  title: "Texture synthesis by non-parametric sampling"
+  authors:
+    - family-names: Efros
+      given-names: Alexei A.
+    - family-names: Leung
+      given-names: Thomas K.
+  year: 1999
+  doi: 10.1109/ICCV.1999.79038
