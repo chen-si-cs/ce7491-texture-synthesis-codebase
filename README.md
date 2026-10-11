@@ -88,13 +88,3 @@ The code is an independent implementation from the [paper](https://doi.org/10.11
 
 The independent code and synthetic examples use the [MIT license](LICENSE). Original paper figures, slides, author images, and third-party repository copies are not distributed here. Please cite Efros and Leung when discussing the algorithm; citation metadata is in `CITATION.cff`.
 
-## Push this local repository
-
-Create an empty repository on your preferred Git host, then run from this folder:
-
-```bash
-git remote add origin https://github.com/YOUR_ACCOUNT/ce7491-texture-synthesis-codebase.git
-git push -u origin main
-```
-
-This local repository intentionally has no remote configured.
